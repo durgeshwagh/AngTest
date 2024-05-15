@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+  
+      "userName": "ganeshwagh3@gmail.com",
+      "password": "ganesh@123",
+      "id": 1
+    },
+    {
+  
+      "userName": "durgeshwagh3@gmail.com",
+      "password": "durgesh@123",
+      "id": 2
+    }
+    
+  ],
+  "employee": [
+    {
+      "Name": "deven",
+      "Email": "deven3@gmail.com",
+      "Department": "rajan",
+      "Position": "sr.dev",
+      "JoiningDate": "2000-02-22",
+      "id": 3
+    },
+    {
+      "Name": "durgesh",
+      "Email": "durgesh3@gmail.com",
+      "Department": "dev",
+      "Position": "sr. dev",
+      "JoiningDate": "2000-12-12",
+      "id": 4
+    },
+    {
+      "Name": "durgesh",
+      "Email": "durgeshwagh3@gmail.com",
+      "Department": "QA",
+      "Position": " jr QA",
+      "JoiningDate": "2022-12-12",
+      "id": 5
+    },
+    {
+      "Name": "rajan",
+      "Email": "deven3@gmail.com",
+      "Department": "rajan",
+      "Position": "sr.dev",
+      "JoiningDate": "2000-02-22",
+      "id": 6
+    },
+    {
+      "Name": "rajan",
+      "Email": "deven3@gmail.com",
+      "Department": "rajan",
+      "Position": "sr.dev",
+      "JoiningDate": "2000-02-22",
+      "id": 7
+    }
+  ]
+}
